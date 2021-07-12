@@ -1,3 +1,4 @@
 # Event Planner Application
 
-Using Vue.js and Firebase Firestore cloud platform.
+With this app you can easily add, edit and delete your own events.
+I used the Vue.js framework and the Firebase Firestore cloud platform.

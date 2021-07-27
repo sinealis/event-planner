@@ -2,7 +2,7 @@
 	<div id="dashboard">
 		<ul class="collection with-header">
 			<li class="collection-header">
-				<h4>Events</h4>
+				<h4>My Events</h4>
 			</li>
 			<li
 				v-for="event in events"

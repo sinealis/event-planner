@@ -5,7 +5,7 @@
 				<router-link
 					to="/"
 					class="brand-logo"
-				><i class="material-icons">event_available</i>My Event Planner</router-link>
+				><i class="material-icons">event_available</i>Event Planner</router-link>
 			</div>
 		</div>
 	</nav>

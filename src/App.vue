@@ -20,6 +20,7 @@ export default {
 </script>
 
 <style>
+@import "./assets/css/style.css";
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&display=swap");
 #app {
 	font-family: "Montserrat", "Helvetica Neue", sans-serif;
